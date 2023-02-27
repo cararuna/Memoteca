@@ -18,6 +18,8 @@ export class CriarPensamentoComponent implements OnInit {
     private formbuilder: FormBuilder
   ) {}
 
+  requiredError = false;
+
   ngOnInit(): void {
     this.formulario = this.formbuilder.group({
       conteudo: [

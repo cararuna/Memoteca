@@ -11,6 +11,9 @@
       formControlName="conteudo"
       placeholder="Digite o pensamento"
     />
+    <div class="mensagem__erro" *ngIf="formulario.get('conteudo')?.errors">
+      Pensamento é obrigatório
+    </div>
     <label for="autoria">Autoria ou fonte</label>
     <input
       type="text"
@@ -19,6 +22,9 @@
       formControlName="autoria"
       placeholder="Digite a autoria ou fonte"
     />
+    <div class="mensagem__erro" *ngIf="formulario.get('autoria')?.errors">
+      Autoria é obrigatória
+    </div>
     <label for="modelo">Selecione o modelo do card:</label>
     <div class="container-radio">
       <div class="radio-modelo">
