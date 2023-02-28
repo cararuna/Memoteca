@@ -11,6 +11,7 @@ import { HttpParams } from '@angular/common/http';
 export class ListarPensamentoComponent implements OnInit {
   listaPensamentos: Pensamento[] = [];
 
+  haMaisPensamentos: boolean = true;
   paginaAtual: number = 1;
 
   constructor(private service: PensamentoService) {}
@@ -19,5 +20,15 @@ export class ListarPensamentoComponent implements OnInit {
     this.service.listar(this.paginaAtual).subscribe((listaPensamentos) => {
       this.listaPensamentos = listaPensamentos;
     });
+  }
+  carregarMaisPensamentos() {
+    this.service
+      .listar(++this.paginaAtual)
+      .subscribe((listaPensamentos) =>
+        this.listaPensamentos.push(...listaPensamentos)
+      );
+    if (!this.listaPensamentos.length) {
+      this.haMaisPensamentos = false;
+    }
   }
 }
