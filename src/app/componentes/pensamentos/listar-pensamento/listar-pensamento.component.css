@@ -87,3 +87,8 @@ input[type="search"]::-webkit-search-cancel-button {
     width: 510px;
   }
 }
+
+.lupa-azul {
+  width: 2rem;
+  height: 2rem;
+}
