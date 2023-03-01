@@ -6,6 +6,8 @@
         class="filtro"
         placeholder="O que você procura?"
         autofocus
+        [(ngModel)]="filtro"
+        (keyup)="pesquisarPensamentos()"
       />
       <img src="/assets/imagens/lupa.png" alt="lupa azul" class="lupa-azul" />
     </div>
