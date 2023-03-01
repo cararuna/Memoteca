@@ -17,6 +17,36 @@
       "autoria": "Phaxe",
       "modelo": "modelo3",
       "id": 3
+    },
+    {
+      "conteudo": "If you go out you come back And you come back to an empty house And now it's loneliness again It feels as though you've been dumped in the deep end And there's nobody there to rescue you",
+      "autoria": "Phaxe",
+      "modelo": "modelo2",
+      "id": 4
+    },
+    {
+      "conteudo": "Life is a waterfall And what comes down goes around And never did we realize  That's the way we are I'm thinking about the good not the bad And never did we realize",
+      "autoria": "Neelix",
+      "modelo": "modelo1",
+      "id": 5
+    },
+    {
+      "conteudo": "Country roads, take me home To the place I belong West Virginia, mountain momma Take me home, country roads",
+      "autoria": "John Denver",
+      "modelo": "modelo3",
+      "id": 6
+    },
+    {
+      "conteudo": "And I turned 21 in prison, doing life without parole No one could steer me right but mama tried, mama tried Mama tried to raise me better but her pleading, I denied That leaves only me to blame 'cause mama tried",
+      "autoria": "Merle Haggard",
+      "modelo": "modelo2",
+      "id": 7
+    },
+    {
+      "conteudo": "Always strive and prosper",
+      "autoria": "RodTheDabber",
+      "modelo": "modelo1",
+      "id": 8
     }
   ]
 }
