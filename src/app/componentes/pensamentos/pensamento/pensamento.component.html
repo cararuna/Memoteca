@@ -11,7 +11,7 @@
     <b>{{ pensamento.autoria }}</b>
   </p>
   <div class="acoes">
-    <button class="botao-favorito" (click)="trocarIconeFavorito()">
+    <button class="botao-favorito" (click)="atualizarFavorito()">
       <img
         src="/assets/imagens/icone-favorito-{{ mudarIconeFavorito() }}.png"
         alt="Ícone de favorito {{ mudarIconeFavorito() }}"
