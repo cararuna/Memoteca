@@ -1,7 +1,6 @@
 import { PensamentoService } from './../pensamento.service';
 import { Component, OnInit } from '@angular/core';
 import { Pensamento } from '../pensamento';
-import { HttpParams } from '@angular/common/http';
 
 @Component({
   selector: 'app-listar-pensamento',
