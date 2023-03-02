@@ -4,55 +4,64 @@
       "conteudo": "The mind is like a muscle. And if you want to be really powerful you have to work it out. Each new fact brings you another choice. Each new idea build another muscle. And those muscles are going to make you really strong, those are your weapons",
       "autoria": "Astrix n LOUD",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 1
     },
     {
       "conteudo": "Death is not the greatest loss The greatest loss is what dies inside us while we're still alive",
       "autoria": "Ghost Rider",
       "modelo": "modelo2",
+      "favorito": true,
       "id": 2
     },
     {
       "id": 3,
       "conteudo": "It's the the stories that we say Like someone waiting to be told The act and compasses the place We watch the seats we live unfold",
       "autoria": "Phaxe",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
       "conteudo": "If you go out you come back And you come back to an empty house And now it's loneliness again It feels as though you've been dumped in the deep end And there's nobody there to rescue you",
       "autoria": "Phaxe",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 4
     },
     {
       "conteudo": "Life is a waterfall And what comes down goes around And never did we realize  That's the way we are I'm thinking about the good not the bad And never did we realize",
       "autoria": "Neelix",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 5
     },
     {
       "conteudo": "Country roads, take me home To the place I belong West Virginia, mountain momma Take me home, country roads",
       "autoria": "John Denver",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 6
     },
     {
       "conteudo": "And I turned 21 in prison, doing life without parole No one could steer me right but mama tried, mama tried Mama tried to raise me better but her pleading, I denied That leaves only me to blame 'cause mama tried",
       "autoria": "Merle Haggard",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 7
     },
     {
       "conteudo": "Always strive and prosper",
       "autoria": "RodTheDabber",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 8
     },
     {
       "id": 9,
       "conteudo": "Se ainda não consegui é porque não tentei o suficiente.",
       "autoria": "Dehbugado",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": false
     }
   ]
 }

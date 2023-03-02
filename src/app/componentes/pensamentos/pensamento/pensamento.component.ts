@@ -25,4 +25,21 @@ export class PensamentoComponent implements OnInit {
     }
     return 'pensamento-p';
   }
+
+  mudarIconeFavorito(): string {
+    console.log(this.pensamento.favorito);
+
+    if (this.pensamento.favorito == false) {
+      return 'inativo';
+    } else {
+      return 'ativo';
+    }
+  }
+
+  trocarIconeFavorito() {
+    console.log(this.pensamento.favorito);
+
+    if (this.pensamento.favorito == false) {
+    }
+  }
 }
