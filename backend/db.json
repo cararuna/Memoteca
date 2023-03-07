@@ -19,7 +19,7 @@
       "conteudo": "It's the the stories that we say Like someone waiting to be told The act and compasses the place We watch the seats we live unfold",
       "autoria": "Phaxe",
       "modelo": "modelo3",
-      "favorito": false
+      "favorito": true
     },
     {
       "conteudo": "If you go out you come back And you come back to an empty house And now it's loneliness again It feels as though you've been dumped in the deep end And there's nobody there to rescue you",
@@ -67,8 +67,15 @@
       "conteudo": "It goes wrong, you hold on 'Cause that's what you know A fresh start with two hearts No beating alone  Emotions change, you look away Pretending they don't A goodbye, a nice No left through the lows  Come back down, it's calling One more shout, I'm falling down Take my hand, I'm all in What you say, no",
       "autoria": "Ghost Rider & Phaxe",
       "modelo": "modelo1",
-      "favorito": true,
+      "favorito": false,
       "id": 10
+    },
+    {
+      "conteudo": "sei lá",
+      "autoria": "João JKW3",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 11
     }
   ]
 }
