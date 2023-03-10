@@ -4,7 +4,7 @@
       "conteudo": "The mind is like a muscle. And if you want to be really powerful you have to work it out. Each new fact brings you another choice. Each new idea build another muscle. And those muscles are going to make you really strong, those are your weapons",
       "autoria": "Astrix n LOUD",
       "modelo": "modelo2",
-      "favorito": false,
+      "favorito": true,
       "id": 1
     },
     {
@@ -25,7 +25,7 @@
       "conteudo": "If you go out you come back And you come back to an empty house And now it's loneliness again It feels as though you've been dumped in the deep end And there's nobody there to rescue you",
       "autoria": "Phaxe",
       "modelo": "modelo2",
-      "favorito": false,
+      "favorito": true,
       "id": 4
     },
     {
@@ -39,7 +39,7 @@
       "conteudo": "Country roads, take me home To the place I belong West Virginia, mountain momma Take me home, country roads",
       "autoria": "John Denver",
       "modelo": "modelo3",
-      "favorito": false,
+      "favorito": true,
       "id": 6
     },
     {
@@ -67,7 +67,7 @@
       "conteudo": "It goes wrong, you hold on 'Cause that's what you know A fresh start with two hearts No beating alone  Emotions change, you look away Pretending they don't A goodbye, a nice No left through the lows  Come back down, it's calling One more shout, I'm falling down Take my hand, I'm all in What you say, no",
       "autoria": "Ghost Rider & Phaxe",
       "modelo": "modelo1",
-      "favorito": false,
+      "favorito": true,
       "id": 10
     },
     {
@@ -76,6 +76,13 @@
       "modelo": "modelo3",
       "favorito": false,
       "id": 11
+    },
+    {
+      "id": 12,
+      "conteudo": "For this life I cannot change, Hidden Hills, deep off in the main.",
+      "autoria": "Travis Scott",
+      "modelo": "modelo3",
+      "favorito": false
     }
   ]
 }
